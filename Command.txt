@@ -1,4 +1,5 @@
 Hello welcome to github
 git init
 git status
-
+git clone
+git remove -v
