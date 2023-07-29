@@ -1,1 +1,4 @@
 Hello welcome to github
+git init
+git clone
+git status
